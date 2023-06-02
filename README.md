@@ -1,2 +1,2 @@
 # Age-and-Gender-Detection
-## using Feedforward and Convolutional Neural Network
+## Using Feedforward and Convolutional Neural Network
